@@ -35,7 +35,7 @@
 
 <img src="project-screenshot/img_sec.PNG" width="100%">
 
-<img src="project-screenshot/calToAction.PNG" width="100%">
+<img src="project-screenshot/callToAction.PNG" width="100%">
 
 <img src="project-screenshot/footer.PNG" width="100%">
 
